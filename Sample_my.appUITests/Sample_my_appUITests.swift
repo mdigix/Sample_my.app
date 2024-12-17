@@ -2,7 +2,7 @@
 //  Sample_my_appUITests.swift
 //  Sample_my.appUITests
 //
-//  Created by Yoshinori Midoritani on 2024/12/16.
+//  Created by mdigix on 2024/12/16.
 //
 
 import XCTest
