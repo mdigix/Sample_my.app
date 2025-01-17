@@ -24,7 +24,7 @@ struct ContentView: View {
                 message = "Happy SwiftUI!"
             }) {
                 VStack(spacing: 20) {
-                    Text("Press Star　icon")
+                    Text("Press Star icon")
                         .padding(.bottom, -12.0)
                     Image(systemName: "star.fill")
                         .foregroundColor(.yellow)
