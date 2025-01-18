@@ -1,1 +1,1 @@
-We are working on a sample application for the iPhone.
+I am in the process of learning to create an iPhone application.
