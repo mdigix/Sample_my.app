@@ -21,7 +21,7 @@ struct ContentView: View {
             //　ボタンを追加
             Button(action: {
                 //　ボタンを押した時にメッセージを変更
-                message = "Happy SwiftUI!"
+                message = "Happy SwiftUI World!"
             }) {
                 VStack(spacing: 20) {
                     Text("Press Star icon")
