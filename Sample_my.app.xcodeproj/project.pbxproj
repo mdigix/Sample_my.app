@@ -6,12 +6,6 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		E1E1F9312DB463A8009A4D01 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = E1E1F9302DB463A8009A4D01 /* .gitignore */; };
-		E1E1F9332DB463D9009A4D01 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = E1E1F9322DB463D9009A4D01 /* README.md */; };
-		E1E1F9352DB46440009A4D01 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = E1E1F9342DB46440009A4D01 /* LICENSE */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXContainerItemProxy section */
 		E1E1F9142DB46223009A4D01 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -224,9 +218,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E1E1F9332DB463D9009A4D01 /* README.md in Resources */,
-				E1E1F9312DB463A8009A4D01 /* .gitignore in Resources */,
-				E1E1F9352DB46440009A4D01 /* LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
