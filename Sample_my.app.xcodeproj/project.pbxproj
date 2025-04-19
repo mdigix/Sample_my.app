@@ -6,6 +6,12 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		E1E1F9312DB463A8009A4D01 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = E1E1F9302DB463A8009A4D01 /* .gitignore */; };
+		E1E1F9332DB463D9009A4D01 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = E1E1F9322DB463D9009A4D01 /* README.md */; };
+		E1E1F9352DB46440009A4D01 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = E1E1F9342DB46440009A4D01 /* LICENSE */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		E1E1F9142DB46223009A4D01 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +33,9 @@
 		E1E1F9052DB46222009A4D01 /* Sample_my.app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sample_my.app.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1E1F9132DB46223009A4D01 /* Sample_my.appTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Sample_my.appTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1E1F91D2DB46223009A4D01 /* Sample_my.appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Sample_my.appUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E1E1F9302DB463A8009A4D01 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; name = .gitignore; path = ../.gitignore; sourceTree = SOURCE_ROOT; };
+		E1E1F9322DB463D9009A4D01 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = SOURCE_ROOT; };
+		E1E1F9342DB46440009A4D01 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +84,9 @@
 		E1E1F8FC2DB46222009A4D01 = {
 			isa = PBXGroup;
 			children = (
+				E1E1F9342DB46440009A4D01 /* LICENSE */,
+				E1E1F9322DB463D9009A4D01 /* README.md */,
+				E1E1F9302DB463A8009A4D01 /* .gitignore */,
 				E1E1F9072DB46222009A4D01 /* Sample_my.app */,
 				E1E1F9162DB46223009A4D01 /* Sample_my.appTests */,
 				E1E1F9202DB46223009A4D01 /* Sample_my.appUITests */,
@@ -212,6 +224,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E1E1F9332DB463D9009A4D01 /* README.md in Resources */,
+				E1E1F9312DB463A8009A4D01 /* .gitignore in Resources */,
+				E1E1F9352DB46440009A4D01 /* LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
